@@ -1,0 +1,9 @@
+{
+	"name": "adf-cpfl-lucas",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c0fdbed-490f-4820-9579-23437a5fe11c",
+		"tenantId": "876a9dfe-c2dc-4c4b-b728-d99fab21805c"
+	}
+}
